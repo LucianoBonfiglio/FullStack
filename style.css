@@ -1,0 +1,158 @@
+*{
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+.container{
+	background-color: white;
+	width: 100%;
+}
+
+.main-header{
+	background-color: #323158;
+	height: 15vh;
+	width: 100%;
+}
+
+.main-header h2{
+	color: white;
+	padding: 10px 0px 5px 15px;
+	font-weight: bold;
+}
+
+.main-header nav{
+	padding-left: 15px;
+}
+
+.freelance-portfolio{
+	background-color: #18BC9C;
+	width: 100%;
+}
+
+.freelance-portfolio-about{
+	width: 100%;
+	margin-top: 50px;
+	background-color: #18BC9C;
+}
+
+.freelance-portfolio img{
+	margin-top: 60px;
+	margin-bottom: 60px;
+	margin-left: 21%;
+	margin-right: 21%;
+}
+
+.freelance-portfolio h1{
+	color: white;
+	text-align: center;
+	font-size: 4em;
+	font-weight: bold;
+}
+
+.freelance-portfolio-about button{
+	margin-left: 35%;
+	margin-bottom: 35px;
+}
+
+.abou{
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	padding-top: 40px;
+}
+
+.texto{
+	text-align: center;
+	color: white;
+	font-size: 1.5em;
+	padding: 15px 10px 65px 10px;
+}
+
+.star .fa-star{
+	color: white;
+	font-size: 40px;
+	height: 9px;
+	padding-left: 38%;
+	padding-bottom: 15px;
+}
+
+.starblack .fa-star{
+	color: black;
+	font-size: 40px;
+	height: 9px;
+	padding-left: 38%;
+	padding-bottom: 15px;
+}
+
+.line-star{
+	float: left;
+	width: 33%;
+	margin: 50px 0px 50px 0px;
+}
+
+.linehrblack{
+	background-color: black;
+	height: 10px;
+}
+
+.linehrwhite{
+	background-color: white;
+	height: 10px;
+}
+
+.btn btn-success{
+	width: 60%;
+}
+
+.portfolio{
+	background-color: white;
+}
+
+.portfolio h3{
+	text-align: center;
+	color: black;
+	font-size: 3em;
+	font-weight: bold;
+	padding-top: 40px;
+}
+
+.images img{
+	width: 100%;
+	margin-top: 20px;
+}
+
+.icons{
+	margin-left: 60px;
+}
+
+.fab{
+	color: white;
+	width: 49px;
+	height: 49px;
+	margin: 10px 15px 10px 15px;
+}
+
+.texto2{
+	color: #18BC9C;
+	text-align: center;
+	font-size: 1.5em;
+	margin-top: -70px;
+}
+
+.info{
+	background-color: #323170;
+}
+
+.info h1{
+	color: white;
+	text-align: center;
+}
+
+.info span{
+	margin-left: 30px;
+	font-size: 40px;
+}
+
+.down i{
+	margin: 5px 10px 5px 10px;
+}
